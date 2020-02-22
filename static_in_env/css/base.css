@@ -1,0 +1,14 @@
+/* This is for navbar */
+.navbar{
+	width:100%;
+	height:5%;
+	padding:0 1.5 0 1.5rem;
+}
+
+#logo{
+	height:7rem;
+}
+.cart{
+	float: right;
+}
+/* Navbar ends */
